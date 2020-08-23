@@ -29,7 +29,7 @@
   },
   "mysql": {
     "client": "mysql",
-    "connection": "mysql://root:root@localhost:3306/CarousalBeverages"
+    "connection": "mysql://root:root@localhost:3306/databasename"
   },
   "user": {
     "first_name": "Manthan",
