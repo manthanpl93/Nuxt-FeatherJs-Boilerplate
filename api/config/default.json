@@ -6,8 +6,6 @@
     "default": 10,
     "max": 2000
   },
-  "dateFormat": "MM/DD/YYYY",
-  "timeFormat": "HH:mm",
   "authentication": {
     "entity": "user",
     "service": "users",
@@ -30,11 +28,5 @@
   "mysql": {
     "client": "mysql",
     "connection": "mysql://root:root@localhost:3306/databasename"
-  },
-  "user": {
-    "first_name": "Manthan",
-    "last_name": "Patel",
-    "email": "manthanpl93@live.com",
-    "password": "12345"
   }
 }
